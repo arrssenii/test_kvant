@@ -1,0 +1,12 @@
+{
+  "menuItems": [
+    { "icon": "calendar_today", "label": "Календарь", "section": "РЕГИСТРАТУРА" },
+    { "icon": "groups", "label": "Пациенты", "section": "РЕГИСТРАТУРА" },
+    { "icon": "event_note", "label": "Записи", "section": "РЕГИСТРАТУРА" },
+    { "icon": "notifications", "label": "События", "section": "РЕГИСТРАТУРА" },
+    { "icon": "medication", "label": "Лечение", "section": "МЕДИЦИНА" },
+    { "icon": "local_hospital", "label": "Кабинеты", "section": "МЕДИЦИНА" },
+    { "icon": "paid", "label": "Счета", "section": "ФИНАНСЫ" },
+    { "icon": "settings", "label": "Настройки", "section": "ФИНАНСЫ" }
+  ]
+}
